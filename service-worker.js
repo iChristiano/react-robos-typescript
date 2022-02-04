@@ -15,7 +15,7 @@ importScripts("/react-robos-typescript/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/react-robos-typescript/workbox-v3.6.3"});
 
 importScripts(
-  "/react-robos-typescript/precache-manifest.769d812796cc8fde8bd85f9f18f2460f.js"
+  "/react-robos-typescript/precache-manifest.ba13be23a8a985dd1d48e53dbd2a9ccc.js"
 );
 
 workbox.clientsClaim();

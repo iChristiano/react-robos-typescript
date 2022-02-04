@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2cd501547bdcaaca48c7",
+    "revision": "15450cd0706e6a49a90b",
     "url": "/react-robos-typescript/static/css/main.1cd154da.chunk.css"
   },
   {
-    "revision": "2cd501547bdcaaca48c7",
-    "url": "/react-robos-typescript/static/js/main.2cd50154.chunk.js"
+    "revision": "15450cd0706e6a49a90b",
+    "url": "/react-robos-typescript/static/js/main.15450cd0.chunk.js"
   },
   {
     "revision": "560124736c961ad8e14a",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-robos-typescript/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "b3b85a60209b801f7636a7e06190defe",
+    "revision": "5e629e619a7e1ae979a8af24f2631105",
     "url": "/react-robos-typescript/index.html"
   }
 ];

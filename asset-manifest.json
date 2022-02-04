@@ -1,7 +1,7 @@
 {
   "main.css": "/react-robos-typescript/static/css/main.1cd154da.chunk.css",
-  "main.js": "/react-robos-typescript/static/js/main.2cd50154.chunk.js",
-  "main.js.map": "/react-robos-typescript/static/js/main.2cd50154.chunk.js.map",
+  "main.js": "/react-robos-typescript/static/js/main.15450cd0.chunk.js",
+  "main.js.map": "/react-robos-typescript/static/js/main.15450cd0.chunk.js.map",
   "static/css/1.cd874d4b.chunk.css": "/react-robos-typescript/static/css/1.cd874d4b.chunk.css",
   "static/js/1.56012473.chunk.js": "/react-robos-typescript/static/js/1.56012473.chunk.js",
   "static/js/1.56012473.chunk.js.map": "/react-robos-typescript/static/js/1.56012473.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.1cd154da.chunk.css.map": "/react-robos-typescript/static/css/main.1cd154da.chunk.css.map",
   "static/css/1.cd874d4b.chunk.css.map": "/react-robos-typescript/static/css/1.cd874d4b.chunk.css.map",
   "index.html": "/react-robos-typescript/index.html",
-  "precache-manifest.769d812796cc8fde8bd85f9f18f2460f.js": "/react-robos-typescript/precache-manifest.769d812796cc8fde8bd85f9f18f2460f.js",
+  "precache-manifest.ba13be23a8a985dd1d48e53dbd2a9ccc.js": "/react-robos-typescript/precache-manifest.ba13be23a8a985dd1d48e53dbd2a9ccc.js",
   "service-worker.js": "/react-robos-typescript/service-worker.js"
 }
