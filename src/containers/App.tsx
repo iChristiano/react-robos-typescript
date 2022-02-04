@@ -46,7 +46,7 @@ class App extends React.Component<IAppProps, IAppState> {
       <h1>Loading</h1> :
       (
         <div className='tc'>
-          <h1 className='f1'>React Robos TS</h1>
+          <h1 className='f1'>Robos TS</h1>
           <SearchBox searchChange={this.onSearchChange}/>
           <Scroll>
             <CardList robots={filteredRobots} />
